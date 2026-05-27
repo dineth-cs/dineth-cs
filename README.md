@@ -71,10 +71,14 @@
 <br/>
 <br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h2 align="center"> 📊 GitHub Stats </h2>
+<hr>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dineth-cs&show_icons=true&theme=tokyonight" alt="dineth-cs stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineth-cs&theme=tokyonight&hide_progress=false" alt="Top Languages" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineth-cs&theme=tokyonight" alt="dineth-cs streak" />
 </p>
