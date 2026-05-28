@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **MindAura (Multimodal AI Personal Assistant)**
 - 🌱 I’m currently learning deeper into **Machine Learning & Cloud Architecture**
 - 🎓 Studying BSc (Hons) Computer Science at **Plymouth University (NSBM)**
-- 💬 Ask me about **React Native, Python, FastAPI & Data Security 
+- 💬 Ask me about React Native, Python, FastAPI & Data Security 
 - 📫 How to reach me: **hasarangadineth570@gmail.com**
 
 <br/>
@@ -71,7 +71,7 @@
 <br/>
 <br/>
 
-<h2 align="center"> 🐍 My Contribution </h2>
+<h2 align="center"> My Contribution </h2>
 <hr>
 
 <p align="center">
