@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **MindAura (Multimodal AI Personal Assistant)**
 - 🌱 I’m currently learning deeper into **Machine Learning & Cloud Architecture**
 - 🎓 Studying BSc (Hons) Computer Science at **Plymouth University (NSBM)**
-- 💬 Ask me about **React Native, Python, FastAPI & Data Security (AES-256)**
+- 💬 Ask me about **React Native, Python, FastAPI & Data Security **
 - 📫 How to reach me: **hasarangadineth570@gmail.com**
 
 <br/>
@@ -75,17 +75,17 @@
 <hr>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td align="center" valign="top">
         <!-- වම් පැත්තේ කාඩ් දෙක (Main Stats & Streak) -->
-        <img src="https://github-readme-stats.vercel.app/api?username=dineth-cs&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dineth-cs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
         <br/><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineth-cs&theme=tokyonight&v=2" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineth-cs&theme=tokyonight" alt="GitHub Streak" />
       </td>
       <td align="center" valign="top">
         <!-- දකුණු පැත්තේ කාඩ් එක (Top Languages) -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineth-cs&theme=tokyonight&hide_progress=false&v=1" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineth-cs&theme=tokyonight&hide_progress=false" alt="Top Languages" />
       </td>
     </tr>
   </table>
