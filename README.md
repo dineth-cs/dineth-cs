@@ -75,17 +75,17 @@
 <hr>
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td align="center" valign="top">
-        <!Main Stats & Streak>
-        <img src="https://github-readme-stats.vercel.app/api?username=dineth-cs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+        <!-- වම් පැත්තේ කාඩ් දෙක (Main Stats & Streak) -->
+        <img src="https://github-readme-stats.vercel.app/api?username=dineth-cs&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" />
         <br/><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineth-cs&theme=tokyonight" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineth-cs&theme=tokyonight&v=2" alt="GitHub Streak" />
       </td>
       <td align="center" valign="top">
-        <!Top Languages >
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineth-cs&theme=tokyonight&hide_progress=false" alt="Top Languages" />
+        <!-- දකුණු පැත්තේ කාඩ් එක (Top Languages) -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineth-cs&theme=tokyonight&hide_progress=false&v=1" alt="Top Languages" />
       </td>
     </tr>
   </table>
