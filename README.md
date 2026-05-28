@@ -74,11 +74,20 @@
 <h2 align="center"> 📊 GitHub Stats </h2>
 <hr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineth-cs&show_icons=true&theme=tokyonight" alt="dineth-cs stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineth-cs&theme=tokyonight&hide_progress=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineth-cs&theme=tokyonight" alt="dineth-cs streak" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <!Main Stats & Streak>
+        <img src="https://github-readme-stats.vercel.app/api?username=dineth-cs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+        <br/><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineth-cs&theme=tokyonight" alt="GitHub Streak" />
+      </td>
+      <td align="center" valign="top">
+        <!Top Languages >
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineth-cs&theme=tokyonight&hide_progress=false" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
