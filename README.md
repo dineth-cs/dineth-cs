@@ -79,13 +79,13 @@
     <tr>
       <td align="center" valign="top">
         <!-- වම් පැත්තේ කාඩ් දෙක (Main Stats & Streak) -->
-        <img src="https://github-readme-stats.vercel.app/api?username=dineth-cs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dineth-cs&show_icons=true&theme=tokyonight&v=5" alt="GitHub Stats" />
         <br/><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineth-cs&theme=tokyonight" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineth-cs&theme=tokyonight&v=5" alt="GitHub Streak" />
       </td>
       <td align="center" valign="top">
         <!-- දකුණු පැත්තේ කාඩ් එක (Top Languages) -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineth-cs&theme=tokyonight&hide_progress=false" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineth-cs&theme=tokyonight&hide_progress=false&nocache=1" alt="Top Languages" />
       </td>
     </tr>
   </table>
