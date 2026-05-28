@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **MindAura (Multimodal AI Personal Assistant)**
 - 🌱 I’m currently learning deeper into **Machine Learning & Cloud Architecture**
 - 🎓 Studying BSc (Hons) Computer Science at **Plymouth University (NSBM)**
-- 💬 Ask me about **React Native, Python, FastAPI & Data Security **
+- 💬 Ask me about **React Native, Python, FastAPI & Data Security 
 - 📫 How to reach me: **hasarangadineth570@gmail.com**
 
 <br/>
@@ -69,6 +69,18 @@
 <br/>
 
 <br/>
+<br/>
+
+<h2 align="center"> 🐍 My Contribution </h2>
+<hr>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dineth-cs/dineth-cs/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dineth-cs/dineth-cs/output/github-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dineth-cs/dineth-cs/output/github-snake-dark.svg">
+  </picture>
+</p>
 <br/>
 
 <h2 align="center"> 📊 GitHub Stats </h2>
